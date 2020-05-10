@@ -1,10 +1,10 @@
-# First coding problem in course.
+# First coding problem in course's Week-1.
 
 Special problem for working with `pandas`.
 
 Download `titanic.csv` file, that contains popular `Titanic Dataset`. (https://github.com/Ppasha9/coursera_ml_introduction/blob/master/try_pandas/titanic.csv)
 
-# What to do:
+# What to do
 
 1. Calculate number of men and women.
 2. Calculate percentage of survived passengers.
